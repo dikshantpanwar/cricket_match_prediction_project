@@ -117,6 +117,4 @@ Dikshant
 
 Machine Learning Project | Python | Scikit-learn
 
-<p align="center">
-  ⭐ If you find this project interesting, consider giving the repository a star!
-</p>
+
