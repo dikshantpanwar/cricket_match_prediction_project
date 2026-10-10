@@ -63,12 +63,6 @@ Repository Structure
 
 The exact structure depends on the files included in this repository. A typical layout could be:
 
-IPL-Match-Winner-Prediction/
-├── data/                 # Historical IPL dataset
-├── notebooks/            # Data analysis and model development
-├── src/                  # Python source code, if organised separately
-├── requirements.txt      # Project dependencies
-└── README.md             # Project documentation
 
 Future Improvements
 
