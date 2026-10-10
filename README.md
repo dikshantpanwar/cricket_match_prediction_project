@@ -1,11 +1,11 @@
 # cricket_match_prediction_projec
-<h1 align="center">🏏 IPL Match Winner Prediction</h1>
+<h1 align="left">🏏 IPL Match Winner Prediction</h1>
 
-<p align="center">
+<p align="left">
   <b>Machine Learning Project | Python | Scikit-learn</b>
 </p>
 
-<p align="center">
+<p align="left">
   Predicting IPL match winners using historical match data and machine learning techniques.
 </p>
 
